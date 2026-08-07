@@ -1,6 +1,6 @@
 # Zetta Lab 2025 - Desafio 1 (Filtro Inicial)
 
-Esse desafio iniciou no dia 09/10/2025 e a data de entrega doi 28/10/2025
+Esse desafio iniciou no dia 09/10/2025 e a data de entrega foi 28/10/2025.
 
 > Solução individual desenvolvida para o Desafio I da 1ª fase do **Programa Zetta Lab**, iniciativa da **Agência Zetta** em parceria com a **Universidade Federal de Lavras (UFLA)**.
 
