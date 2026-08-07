@@ -1,5 +1,9 @@
 # Zetta Lab 2025 - Desafio 1 (Filtro Inicial)
 
+[![Desafio 1](https://img.shields.io/badge/Zetta_Lab-Desafio_1-blue?style=flat-square&logo=github)](https://github.com/luizalucio/desafio1-zettalab)
+[![Desafio 2](https://img.shields.io/badge/Zetta_Lab-Desafio_2-blue?style=flat-square&logo=github)](https://github.com/luizalucio/desafio2-zettalab)
+[![Desafio 3](https://img.shields.io/badge/Zetta_Lab-Desafio_3_(Squad)-green?style=flat-square&logo=github)](https://github.com/luizalucio/desafio3-zettalab)
+
 Esse desafio iniciou no dia 09/10/2025 e a data de entrega foi 28/10/2025.
 
 > Solução individual desenvolvida para o Desafio I da 1ª fase do **Programa Zetta Lab**, iniciativa da **Agência Zetta** em parceria com a **Universidade Federal de Lavras (UFLA)**.
