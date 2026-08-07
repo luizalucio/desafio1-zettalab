@@ -1,0 +1,33 @@
+---
+title: "Análise das enchentes em Canoas (RS) por sensoriamento remoto: comparação antes e depois do evento de 2024"
+author: "Luíza Helena Pereira Lúcio"
+format: 
+  pdf:
+    keep-tex: true
+    latex-engine: xelatex
+header-includes:
+  - \usepackage{titling}        
+  - \setlength{\droptitle}{-2cm} 
+  - \pagenumbering{gobble}     
+---
+
+### Introdução
+Em abril e maio de 2024, o Rio Grande do Sul enfrentou um dos maiores desastres ambientais de sua história, causado por chuvas extremas e transbordamento de rios. Canoas, na região metropolitana de Porto Alegre, foi uma das cidades mais atingidas, com extensas áreas urbanas alagadas.  
+Este relatório relaciona o evento a evidências obtidas por sensoriamento remoto, utilizando imagens do satélite Sentinel-2 e estimando a área impactada.
+
+### Metodologia e Resultados
+Foram analisadas imagens do Sentinel-2 obtidas antes (21/04/2024) e depois (06/05/2024) da enchente, por meio da plataforma [EOS LandViewer](https://eos.com/landviewer/pt/). As variações na reflectância da superfície permitiram identificar e delimitar manualmente as regiões alagadas, com base no contraste espectral entre as duas datas.  
+Considerando a resolução espacial de 10 metros por pixel, a área total inundada foi estimada em aproximadamente 6,87 km², representando a porção do território temporariamente coberta por água após o evento.
+
+\begin{center}
+\begin{tabular}{ccc}
+\includegraphics[width=0.20\textwidth]{antes.jpg} &
+\includegraphics[width=0.20\textwidth]{depois.jpg} &
+\includegraphics[width=0.20\textwidth]{diferenca.jpg} \\
+Antes (21/04/2024) & Depois (06/05/2024) & Área alagada \\
+\end{tabular}
+\end{center}
+
+### Discussão e Conclusão
+A enchente resultou da combinação entre chuvas excepcionais, saturação do solo e alta impermeabilização urbana. O sensoriamento remoto mostrou-se eficaz para identificar e quantificar os impactos, permitindo estimar 6,87 km² de áreas alagadas em Canoas.  
+A análise reforça a importância do monitoramento contínuo de zonas urbanas vulneráveis e o uso de imagens orbitais em estudos ambientais.
